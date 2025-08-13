@@ -13,7 +13,7 @@
 /*  Radio SX1262 – parámetros básicos                                         */
 /*----------------------------------------------------------------------------*/
 #define RF_FREQUENCY 915000000 // Hz
-#define TX_OUTPUT_POWER 5      // dBm
+#define TX_OUTPUT_POWER 22      // dBm
 #define LORA_BANDWIDTH 0       // 125 kHz
 #define LORA_SPREADING_FACTOR 7
 #define LORA_CODINGRATE 1      // 4/5
